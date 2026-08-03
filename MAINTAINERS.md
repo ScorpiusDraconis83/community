@@ -1,4 +1,4 @@
-# Dapr maintainers
+# Dapr Maintainers
 
 This is the list of maintainers for all Dapr repositories, in alphabetical order:
 
@@ -7,8 +7,6 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Artur Ciocanu (Adobe Inc) [@artur-ciocanu](https://github.com/artur-ciocanu)
 - Cassie Coyle (Diagrid) [@cicoyle](https://github.com/cicoyle)
 - Dana Arsovska (Ahold Delhaize) [@Dzvezdana](https://github.com/Dzvezdana) (non voting)
-- Deepanshu Agarwal (Microsoft) [@DeepanshuA](https://github.com/DeepanshuA)
-- Elena Kolevska (Diagrid) [@elena-kolevska](https://github.com/elena-kolevska)
 - Hannah Hunter (Microsoft) [@hhunter-ms](https://github.com/hhunter-ms)
 - Hal Spang (Microsoft) [@halspang](https://github.com/halspang)
 - Javier Aliaga (Diagrid) [@javier-aliaga](https://github.com/@javier-aliaga)
@@ -26,3 +24,23 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Siri Varma (Microsoft) [@siri-varma](https://github.com/siri-varma)
 - Whit Waldo (Innovian) [@WhitWaldo](https://github.com/WhitWaldo)
 - Yaron Schneider (Diagrid) [@yaron2](https://github.com/yaron2)
+
+# Emeritus Maintainers
+
+The following individuals are recognised for their significant contributions as Dapr Maintainers. Although they no longer hold active maintainer responsibilities or voting privileges, they have made a lasting impact on the project and community.
+
+- Aaron Crawfis [@AaronCrawfis](https://github.com/AaronCrawfis)
+- Alessandro Segala [@ItalyPaleAle](https://github.com/ItalyPaleAle)
+- Amulya Varote [@amulyavarote](https://github.com/amulyavarote)
+- Artur Souza [@artursouza](https://github.com/artursouza)
+- Bernd Verst [@berndverst](https://github.com/berndverst)
+- Charlie Stanley [@wcs1only](https://github.com/wcs1only)
+- Deepanshu Agarwal [@DeepanshuA](https://github.com/DeepanshuA)
+- Elena Kolevska [@elena-kolevska](https://github.com/elena-kolevska)
+- Mark Chmarny [@mchmarny](https://github.com/mchmarny)
+- Mukundan Sundararajan [@mukundansundar](https://github.com/mukundansundar)
+- Ori Zohar [@orizohar](https://github.com/orizohar)
+- Ryan Nowak [@rynowak](https://github.com/rynowak)
+- Shubham Sharma [@shubham1172](https://github.com/shubham1172)
+- Sky Xiaojian [@skyao](https://github.com/skyao)
+- Xavier Geernick [@XavierGeerinck](https://github.com/XavierGeerinck)
